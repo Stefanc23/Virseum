@@ -8,13 +8,13 @@ public class ARModeUI : MonoBehaviour
     [SerializeField] TMPro.TMP_Dropdown weaponSelector;
     [SerializeField] string kerisInformation;
     [SerializeField] string cluritInformation;
-    // [SerializeField] string calukInformation;
+    [SerializeField] string calukInformation;
     [SerializeField] GameObject infoPanel;
     [SerializeField] TMPro.TMP_Text infoText;
     [SerializeField] GameObject instructionText;
     [SerializeField] GameObject keris;
     [SerializeField] GameObject clurit;
-    // [SerializeField] GameObject caluk;
+    [SerializeField] GameObject caluk;
 
     private int currentlySelected;
     private string currentlySelectedWeaponInformation;
@@ -52,7 +52,7 @@ public class ARModeUI : MonoBehaviour
                 currentAugmentation = keris;
                 keris.SetActive(true);
                 clurit.SetActive(false);
-                // caluk.SetActive(false);
+                caluk.SetActive(false);
                 break;
             }
             case 1: {
@@ -61,18 +61,18 @@ public class ARModeUI : MonoBehaviour
                 currentAugmentation = clurit;
                 keris.SetActive(false);
                 clurit.SetActive(true);
-                // caluk.SetActive(false);
+                caluk.SetActive(false);
                 break;
             }
-            // case 2: {
-            //     currentlySelectedWeaponInformation = calukInformation;
-            //     infoText.text = currentlySelectedWeaponInformation.Replace("<br>", "\n");
-            //     // currentAugmentation = caluk;
-            //     keris.SetActive(false);
-            //     clurit.SetActive(false);
-            //     // caluk.SetActive(true);
-            //     break;
-            // }
+            case 2: {
+                currentlySelectedWeaponInformation = calukInformation;
+                infoText.text = currentlySelectedWeaponInformation.Replace("<br>", "\n");
+                currentAugmentation = caluk;
+                keris.SetActive(false);
+                clurit.SetActive(false);
+                caluk.SetActive(true);
+                break;
+            }
         }
         Debug.Log(currentlySelectedWeaponInformation);
     }
