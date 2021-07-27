@@ -9,12 +9,18 @@ public class ARModeUI : MonoBehaviour
     [SerializeField] string kerisInformation;
     [SerializeField] string cluritInformation;
     [SerializeField] string calukInformation;
+    [SerializeField] string budingInformation;
+    [SerializeField] string bionetInformation;
+    [SerializeField] string kudiInformation;
     [SerializeField] GameObject infoPanel;
     [SerializeField] TMPro.TMP_Text infoText;
     [SerializeField] GameObject instructionText;
     [SerializeField] GameObject keris;
     [SerializeField] GameObject clurit;
     [SerializeField] GameObject caluk;
+    [SerializeField] GameObject buding;
+    [SerializeField] GameObject bionet;
+    [SerializeField] GameObject kudi;
 
     private int currentlySelected;
     private string currentlySelectedWeaponInformation;
@@ -53,6 +59,9 @@ public class ARModeUI : MonoBehaviour
                 keris.SetActive(true);
                 clurit.SetActive(false);
                 caluk.SetActive(false);
+                buding.SetActive(false);
+                bionet.SetActive(false);
+                kudi.SetActive(false);
                 break;
             }
             case 1: {
@@ -62,6 +71,9 @@ public class ARModeUI : MonoBehaviour
                 keris.SetActive(false);
                 clurit.SetActive(true);
                 caluk.SetActive(false);
+                buding.SetActive(false);
+                bionet.SetActive(false);
+                kudi.SetActive(false);
                 break;
             }
             case 2: {
@@ -71,6 +83,45 @@ public class ARModeUI : MonoBehaviour
                 keris.SetActive(false);
                 clurit.SetActive(false);
                 caluk.SetActive(true);
+                buding.SetActive(false);
+                bionet.SetActive(false);
+                kudi.SetActive(false);
+                break;
+            }
+            case 3: {
+                currentlySelectedWeaponInformation = budingInformation;
+                infoText.text = currentlySelectedWeaponInformation.Replace("<br>", "\n");
+                currentAugmentation = caluk;
+                keris.SetActive(false);
+                clurit.SetActive(false);
+                caluk.SetActive(false);
+                buding.SetActive(true);
+                bionet.SetActive(false);
+                kudi.SetActive(false);
+                break;
+            }
+            case 4: {
+                currentlySelectedWeaponInformation = bionetInformation;
+                infoText.text = currentlySelectedWeaponInformation.Replace("<br>", "\n");
+                currentAugmentation = caluk;
+                keris.SetActive(false);
+                clurit.SetActive(false);
+                caluk.SetActive(false);
+                buding.SetActive(false);
+                bionet.SetActive(true);
+                kudi.SetActive(false);
+                break;
+            }
+            case 5: {
+                currentlySelectedWeaponInformation = kudiInformation;
+                infoText.text = currentlySelectedWeaponInformation.Replace("<br>", "\n");
+                currentAugmentation = caluk;
+                keris.SetActive(false);
+                clurit.SetActive(false);
+                caluk.SetActive(false);
+                buding.SetActive(false);
+                bionet.SetActive(false);
+                kudi.SetActive(true);
                 break;
             }
         }
