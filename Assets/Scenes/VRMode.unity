@@ -127,7 +127,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1426
+  m_Name: pb_Mesh-2932
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -453,7 +453,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2162
+  m_Name: pb_Mesh-3806
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -616,7 +616,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1304
+  m_Name: pb_Mesh-2812
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1260,21 +1260,17 @@ PrefabInstance:
       propertyPath: m_text
       value: 'Asal: Jawa Timur
 
+
         Fungsi: Alat bantu pekerjaan, alat pertahanan
         diri
+
 
         Ciri khas: Bentuk menyerupai golok atau pisau dapur, memiliki
         sarung yang terbuat dari kayu dengan ornament tertentu yang berfungsi sebagai
         pelindung mata pisau
 
-        Makna: -
 
-
-        Bunding merupakan senjata
-        tradisional yang berasal dari Jawa Timur, khususnya daerah Banyuwangi (suku
-        Osing). Ciri khas dari bunding adalah bentuknya yang mirip dengan pisau dapur
-        atau golok serta memiliki sarung yang terbuat dari kayu dengan ornament tertentu
-        (seperti kepala naga, bunga, ular, dan sebagainya).'
+        Makna: -'
       objectReference: {fileID: 0}
     - target: {fileID: 7117895544132110809, guid: 0397a21240e434f4f99a6cfd9511925e,
         type: 3}
@@ -5451,7 +5447,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1894
+  m_Name: pb_Mesh-3530
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -5614,7 +5610,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1900
+  m_Name: pb_Mesh-3558
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -5777,7 +5773,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2160
+  m_Name: pb_Mesh-3782
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -5940,7 +5936,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1430
+  m_Name: pb_Mesh-2936
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6122,7 +6118,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1614
+  m_Name: pb_Mesh-3182
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6364,7 +6360,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1742
+  m_Name: pb_Mesh-3308
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6596,12 +6592,9 @@ PrefabInstance:
     - target: {fileID: 6797575563715551994, guid: 0397a21240e434f4f99a6cfd9511925e,
         type: 3}
       propertyPath: m_text
-      value: "Asal: Jawa Timur\r\nFungsi: Senjata untuk perang atau pertahanan diri\r\nCiri
-        khas: Bentuk lurus, panjang, ujung runcing, gagang membentuk sudut 90 derajat
-        dari bilah\r\nMakna:\r -\n\nBionet merupakan senjata tradisional yang berasal
-        dari Jawa Timur, namun untuk daerah spesifiknya masih belum diketahui secara
-        pasti. Ciri khas dari bionet adalah bentuknya yang lurus, panjang, serta
-        memiliki ujung yang runcing seperti pedang. "
+      value: "Asal: Jawa Timur\r\n\nFungsi: Senjata untuk perang atau pertahanan
+        diri\r\n\nCiri khas: Bentuk lurus, panjang, ujung runcing, gagang membentuk
+        sudut 90 derajat dari bilah\r\n\nMakna:\r -"
       objectReference: {fileID: 0}
     - target: {fileID: 7117895544132110809, guid: 0397a21240e434f4f99a6cfd9511925e,
         type: 3}
@@ -10778,7 +10771,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1428
+  m_Name: pb_Mesh-2934
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -13056,7 +13049,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1302
+  m_Name: pb_Mesh-2810
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -13478,7 +13471,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2166
+  m_Name: pb_Mesh-3810
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -13804,7 +13797,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1424
+  m_Name: pb_Mesh-2930
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -13979,7 +13972,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1898
+  m_Name: pb_Mesh-3556
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -14324,7 +14317,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1618
+  m_Name: pb_Mesh-3186
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -14650,7 +14643,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2168
+  m_Name: pb_Mesh-3812
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -14813,7 +14806,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1306
+  m_Name: pb_Mesh-2814
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -15055,7 +15048,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1744
+  m_Name: pb_Mesh-3310
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -15381,7 +15374,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1906
+  m_Name: pb_Mesh-3564
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -15839,7 +15832,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1610
+  m_Name: pb_Mesh-3178
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -16002,7 +15995,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1612
+  m_Name: pb_Mesh-3180
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -16395,7 +16388,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1904
+  m_Name: pb_Mesh-3562
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -17048,21 +17041,17 @@ PrefabInstance:
       propertyPath: m_text
       value: 'Asal: Jawa Timur (Madura)
 
+
         Fungsi: Senjata, alat bertani dan
         bercocok tanam
+
 
         Ciri khas: Bentuk seperti tanda tanya (bilah berbentuk
         bulan sabit dengan gagang cukup panjang)
 
+
         Makna: Simbol kejantanan
-        laki-laki
-
-
-        Celurit merupakan senjata tradisional khas Jawa Timur,
-        khususnya Madura. Celurit banyak dikenal sebagai lambang kejantanan laki-laki.
-        Celurit banyak digunakan sebagai alat bertani dan bercocok tanam oleh masyarakat.
-        Ciri khas dari celurit adalah bilah yang berbentuk bulan sabit dengan gagang
-        yang cukup panjang (seperti bentuk tanda tanya). '
+        laki-laki'
       objectReference: {fileID: 0}
     - target: {fileID: 7117895544132110809, guid: 0397a21240e434f4f99a6cfd9511925e,
         type: 3}
@@ -21310,22 +21299,18 @@ PrefabInstance:
       propertyPath: m_text
       value: 'Asal: Jawa Timur
 
+
         Fungsi: Alat untuk membelah atau memotong
         benda keras, alat bantu pekerjaan, alat pertahanan diri
+
 
         Ciri khas:
         Bentuk mirip dengan senjata Kujang (Jawa Barat), memiliki satu sisi yang
         tajam, bentuk agak melengkung dengan pangkal yang membesar
 
+
         Makna:
-        Menghidupi masyarakat Jawa Timur dalam segala kondisi
-
-
-        Kudi merupakan
-        senjata tradisional yang berasal dari Jawa Timur, khususnya daerah sekitar
-        Banyumas. Ciri khas dari kudi adalah bentuknya yang agak melengkung seperti
-        celurit dengan pangkal yang agak membesar serta hanya memiliki satu sisi
-        tajam.'
+        Menghidupi masyarakat Jawa Timur dalam segala kondisi'
       objectReference: {fileID: 0}
     - target: {fileID: 7117895544132110809, guid: 0397a21240e434f4f99a6cfd9511925e,
         type: 3}
@@ -25586,7 +25571,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1736
+  m_Name: pb_Mesh-3302
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -25907,7 +25892,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2164
+  m_Name: pb_Mesh-3644
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -26080,7 +26065,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2172
+  m_Name: pb_Mesh-3816
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -26406,7 +26391,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1620
+  m_Name: pb_Mesh-3188
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -26610,7 +26595,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1298
+  m_Name: pb_Mesh-2806
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -26773,7 +26758,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh16002
+  m_Name: pb_Mesh16384
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -27131,7 +27116,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1734
+  m_Name: pb_Mesh-3300
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -27294,7 +27279,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1902
+  m_Name: pb_Mesh-3560
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -27457,7 +27442,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2170
+  m_Name: pb_Mesh-3814
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -27804,7 +27789,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2164
+  m_Name: pb_Mesh-3808
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -27967,7 +27952,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1732
+  m_Name: pb_Mesh-3276
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -28282,7 +28267,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1422
+  m_Name: pb_Mesh-2906
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -28445,7 +28430,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1616
+  m_Name: pb_Mesh-3184
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -28608,7 +28593,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1300
+  m_Name: pb_Mesh-2808
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -28771,7 +28756,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1296
+  m_Name: pb_Mesh-2804
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -29097,7 +29082,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-2188
+  m_Name: pb_Mesh-3670
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -29260,7 +29245,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1434
+  m_Name: pb_Mesh-2940
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -29423,7 +29408,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1608
+  m_Name: pb_Mesh-3154
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -29586,7 +29571,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1294
+  m_Name: pb_Mesh-2780
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -29913,21 +29898,17 @@ PrefabInstance:
       propertyPath: m_text
       value: 'Asal: Jawa Tengah (Yogyakarta)
 
+
         Fungsi: Senjata, aksesoris
         busana kebudayaan, benda koleksi
+
 
         Ciri khas: Ujung runcing, kedua
         sisi tajam dan tidak simetris (berkelok-kelok serta pangkal melebar)
 
+
         Makna:
-        Simbol kehormatan dan keberanian
-
-
-        Keris merupakan senjata tradisional
-        khas pulau Jawa, khususnya Jawa Tengah. Selain sebagai senjata, masyarakat
-        menganggap keris sebagai suatu benda pustaka atau barang suci. Ciri khas
-        dari keris adalah ujungnya yang runcing, kedua sisinya yang tajam serta tidak
-        simetris (berkelok-kelok dan melebar pada bagian pangkal).'
+        Simbol kehormatan dan keberanian'
       objectReference: {fileID: 0}
     - target: {fileID: 7117895544132110809, guid: 0397a21240e434f4f99a6cfd9511925e,
         type: 3}
@@ -34670,7 +34651,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1740
+  m_Name: pb_Mesh-3306
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -34833,7 +34814,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1896
+  m_Name: pb_Mesh-3554
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -34996,7 +34977,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1432
+  m_Name: pb_Mesh-2938
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -35243,7 +35224,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-1738
+  m_Name: pb_Mesh-3304
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -36145,22 +36126,17 @@ PrefabInstance:
       propertyPath: m_text
       value: 'Asal: Jawa Timur (Tuban)
 
+
         Fungsi: Senjata, alat sehari-hari,
         benda koleksi
+
 
         Ciri khas: Bentuk seperti golok dengan lengkungan
         pada bagian ujung serta kapak pada bagian tengah
 
-        Makna: Simbol kewibawaan
-        serta pengaruh atau manfaat yang besar dalam kehidupan masyarakat
 
-
-        Caluk
-        merupakan senjata tradisional yang berasal dari Jawa Timur, khususnya daerah
-        Tuban. Ciri khas dari caluk adalah bentuknya yang seperti golok dengan lengkungan
-        pada bagian ujung serta kapak di bagian tengahnya.
-
-'
+        Makna: Simbol
+        kewibawaan serta pengaruh atau manfaat yang besar dalam kehidupan masyarakat'
       objectReference: {fileID: 0}
     - target: {fileID: 7117895544132110809, guid: 0397a21240e434f4f99a6cfd9511925e,
         type: 3}
